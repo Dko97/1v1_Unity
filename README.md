@@ -1,1 +1,1 @@
-# GameDev
+# 1v1 Game demo
